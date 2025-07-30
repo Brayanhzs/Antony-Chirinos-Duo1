@@ -2,6 +2,7 @@
 # Proyecto Básico de Desarrollo Web
 
 #Descripción
+
 Este es un proyecto básico web como parte de la clase de desarrollo web. Incluye HTML, CSS, JavaScript y un pequeño ejemplo en PHP.
 
 #Tecnologías utilizadas
